@@ -1,8 +1,17 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap">
-        <div class="banner within-preschool"></div>
+{{--    <div class="banner-wrap">--}}
+{{--        <div class="banner within-preschool"></div>--}}
+{{--    </div>--}}
+
+    <div>
+        <div class="row row-cols-4 row-cols-sm-4 row-cols-md-4 row-cols-lg-4 px-0 mx-0" style="overflow-x: hidden;">
+            <img src="/images/comp-1.jpg" alt="" class="img-fluid px-0 mx-0">
+            <img src="/images/comp-2.jpg" alt="" class="img-fluid px-0 mx-0">
+            <img src="/images/comp-3.jpg" alt="" class="img-fluid px-0 mx-0">
+            <img src="/images/comp-4.jpg" alt="" class="img-fluid px-0 mx-0">
+        </div>
     </div>
 
     <div class="container py-5">

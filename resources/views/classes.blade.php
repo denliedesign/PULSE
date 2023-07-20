@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap-lg">
         <div class="banner within-preschool"></div>
     </div>
 

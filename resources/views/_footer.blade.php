@@ -50,13 +50,13 @@
                                 <li class="list-group-item font-segoe px-0 border-0">
                                     <a class="text-decoration-none text-white" href="/competition">Competition</a>
                                 </li>
-                                <li class="list-group-item font-segoe px-0 border-0">
-                                    <a class="text-decoration-none text-white" href="/nova">Nova</a>
-                                </li>
                             </ul>
                         </div>
                         <div class="col-sm">
                             <ul class="list-group-dark ps-0" style="font-size: 1.33em;">
+                                <li class="list-group-item font-segoe px-0 border-0">
+                                    <a class="text-decoration-none text-white" href="/nova">Nova</a>
+                                </li>
                                 <li class="list-group-item font-segoe px-0 border-0">
                                     <a class="text-decoration-none text-white" href="/calendar">Calendar</a>
                                 </li>

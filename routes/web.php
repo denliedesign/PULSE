@@ -50,6 +50,12 @@ Route::get('age11-12', function () {
 Route::get('age13-18', function () {
     return view('age13-18');
 });
+Route::get('acro', function () {
+    return view('acro');
+});
+Route::get('boys', function () {
+    return view('boys');
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
