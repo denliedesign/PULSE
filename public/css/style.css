@@ -1,0 +1,113 @@
+/*#fold {*/
+/*    background: url("/images/passe-evolution.JPG");*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-attachment: scroll;*/
+/*    background-repeat: no-repeat;*/
+/*    height: 800px;*/
+/*    width: 100%*/
+/*}*/
+
+.brand-btn:hover {
+    background: #7442c8 !important;
+}
+
+h4 {
+    font-size: 3.75em;
+    /*font-weight: bold;*/
+    /*font-style: italic;*/
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+}
+
+h6 {
+    font-size: 2em;
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+}
+
+.head-video {
+    height: auto;
+    width: 100%;
+    z-index: 0;
+}
+
+.font-impact {
+    font-family: 'Impact', sans-serif;
+    font-size: 1.9em;
+}
+
+p {
+    font-family: 'Baskervville', serif;
+    font-size: 1.9em;
+}
+
+.font-segoe {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.review-img {
+    border: 3px solid #5946b2;
+    border-radius: 50%;
+    background: #5946b2;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    object-position: 50% 20%;
+}
+
+.purple {
+    background: linear-gradient(to right, #a020f0, #8806ce); position: relative;
+    color: white;
+}
+
+.txt-purple {
+    color: #a020f0;
+}
+
+.banner-wrap {height: 415px;}
+.banner-wrap-lg {height: 550px;}
+
+.banner {
+    height: 100%;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-lg {
+    height: 100%;
+    background-attachment: scroll;
+    background-position: 0 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.within-preschool {background-image: url(/images/preschool-banner.jpg);}
+.within-2-4 {background-image: url(/images/within-2-4.jpg);}
+.within-5-6 {background-image: url(/images/within-5-6.jpg);}
+
+
+<!-- -->
+
+.custom-shape-divider-top-1688070531 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1688070531 svg {
+    position: relative;
+    display: block;
+    width: calc(159% + 1.3px);
+    height: 85px;
+}
+
+.custom-shape-divider-top-1688070531 .shape-fill {
+    fill: #FFFFFF;
+}
