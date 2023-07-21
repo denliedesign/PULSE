@@ -11,13 +11,14 @@ purple heart #7442c8
 {{--    <div id="fold"></div>--}}
     <div style="position: relative;">
         <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
-        <div style="position: absolute; top: 65%; left: 50%; transform: translate(-50%, -50%);">
+        <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%);">
             <div class="text-center text-white" style="font-size: 2em;">
                 <h4 class="pb-0 mb-0" style="text-shadow: 2px 2px 4px black;">
                     Dance With Us
                 </h4>
-                <div class="font-segoe text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black;">
-                    We offer dance classes in all styles, for all levels and ages
+                <div class="font-segoe fw-bold text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black;">
+{{--                    We offer--}}
+                    dance classes in all styles, for all levels and ages
                 </div>
                 <div class="mt-3">
                     <div class="btn btn-lg brand-btn shadow mt-2 fw-bold font-segoe" style="background: #5946b2; color: white;">Register Now</div>
@@ -236,7 +237,7 @@ purple heart #7442c8
                     <div>
                         <ion-icon name="home" style="font-size: 2em;"></ion-icon>
                         <h5 style="font-size: 2em;">1</h5>
-                        <p>family</p>
+                        <p>dance family</p>
                     </div>
                 </div>
                 <div class="d-md-none"><hr></div>
