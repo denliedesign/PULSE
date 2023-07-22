@@ -2,7 +2,7 @@
 @section('content')
 
     <div class="banner-wrap-lg">
-        <div class="banner within-preschool"></div>
+        <div class="banner-lg within-acro"></div>
     </div>
 
     <div class="container py-5">

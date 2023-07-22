@@ -12,6 +12,11 @@
     background: #7442c8 !important;
 }
 
+.brand-btn-outline:hover {
+    background: #5946b2 !important;
+    color: white !important;
+}
+
 h4 {
     font-size: 3.75em;
     /*font-weight: bold;*/
@@ -37,7 +42,7 @@ h6 {
     font-size: 1.9em;
 }
 
-p {
+p, .font-basker {
     font-family: 'Baskervville', serif;
     font-size: 1.9em;
 }
@@ -92,8 +97,42 @@ p {
 .within-11-12 {background-image: url(/images/within-11-12.jpg);}
 .within-13-18 {background-image: url(/images/within-13-18.jpg);}
 .within-boys {background-image: url(/images/within-boys.jpg);}
+.within-acro {background-image: url(/images/within-acro.jpg);}
 .within-about {background-image: url(/images/within-about.jpg);}
 .within-nova {background-image: url(/images/nova-3.jpg);}
+
+.apple-partner {
+    position: absolute;
+    z-index: -1;
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+    font-size: 6em;
+    line-height: 0.9;
+    left: 11%;
+}
+
+.apple-cta {
+    position: absolute;
+    z-index: -1;
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+    font-size: 7.5em;
+    line-height: 0.9;
+    top: 15%;
+    left: 4%;
+    width: 100%;
+}
+
+.apple-boom {
+    position: absolute;
+    z-index: -1;
+    font-family: 'Impact', sans-serif;
+    text-transform: uppercase;
+    font-size: 15em;
+    line-height: 0.9;
+    top: 11%;
+    left: 11%;
+}
 
 
 <!-- -->

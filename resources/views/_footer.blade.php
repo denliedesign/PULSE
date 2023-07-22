@@ -1,4 +1,4 @@
-<div class="text-white pb-5 font-segoe" style="background: #231F20;">
+<div class="text-white pb-5 font-segoe" style="background: #231F20;" id="footer">
     <div class="container">
         <div class="pt-5">
             <div class="row m-0 p-0">
@@ -17,7 +17,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0 text-white font-segoe">
                             <ion-icon name="mail"></ion-icon>
-                            kelly@performthepulse.com
+                            <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">kelly@performthepulse.com</a>
                         </li>
                     </ul>
                 </div>
@@ -30,7 +30,7 @@
                             </a>
                         </div>
                         <div class="d-inline">
-                            <a style="font-size: 1.33em;" class="nav-link text-white p-0 mx-3" href="/" target="_blank">
+                            <a style="font-size: 1.33em;" class="nav-link text-white p-0 mx-3" href="https://www.instagram.com/pulseperformingartsstudio/" target="_blank">
                                 <ion-icon name="logo-instagram"></ion-icon>
                             </a>
                         </div>
