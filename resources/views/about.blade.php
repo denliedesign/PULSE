@@ -1,9 +1,11 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap-lg">
+    <div class="banner-wrap-lg d-none d-md-block">
         <div class="banner-lg within-about"></div>
     </div>
+
+    <img src="/images/within-about.jpg" alt="girl doing headstand" class="img-fluid d-block d-md-none">
 
     <div class="container py-5">
         <h4 class="text-center">About Us</h4>

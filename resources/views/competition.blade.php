@@ -6,7 +6,7 @@
 {{--    </div>--}}
 
     <div>
-        <div class="row row-cols-4 row-cols-sm-4 row-cols-md-4 row-cols-lg-4 px-0 mx-0" style="overflow-x: hidden;">
+        <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4 px-0 mx-0" style="overflow-x: hidden;">
             <img src="/images/comp-1.jpg" alt="" class="img-fluid px-0 mx-0">
             <img src="/images/comp-2.jpg" alt="" class="img-fluid px-0 mx-0">
             <img src="/images/comp-3.jpg" alt="" class="img-fluid px-0 mx-0">

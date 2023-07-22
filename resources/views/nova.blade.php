@@ -1,9 +1,11 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner within-nova"></div>
     </div>
+
+    <img src="/images/nova-3.jpg" alt="girl doing headstand" class="img-fluid d-block d-md-none">
 
 {{--<div>--}}
 {{--    <div class="row row-cols-4 row-cols-sm-4 row-cols-md-4 row-cols-lg-4 px-0 mx-0" style="overflow-x: hidden;">--}}
@@ -16,7 +18,7 @@
 
     <div class="container py-5">
         <div class="d-flex justify-content-center">
-            <img src="/images/logo-nova.jpg" alt="" class="img-fluid" style="height: 500px;">
+            <img src="/images/logo-nova.jpg" alt="" class="img-fluid" style="max-height: 500px; width: auto;">
         </div>
 {{--        <h4 class="text-center">Nova Jazz</h4>--}}
         <p>

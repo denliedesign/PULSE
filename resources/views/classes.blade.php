@@ -1,9 +1,11 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap-lg">
+    <div class="banner-wrap-lg d-none d-md-block">
         <div class="banner within-preschool"></div>
     </div>
+
+    <img src="/images/preschool-banner.jpg" alt="three preschoolers on their tummies smiling" class="img-fluid d-block d-md-none">
 
     <div class="container py-5">
         <h4 class="text-center">2023-2024 Class Schedule</h4>
