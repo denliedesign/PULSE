@@ -9,7 +9,7 @@ purple heart #7442c8
 -->
 
 
-    <div style="position: relative;" class="d-none d-md-block ">
+    <div style="position: relative;" class="d-none d-lg-block ">
         <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
         <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%);">
             <div class="text-center text-white" style="font-size: 2em;">
@@ -26,7 +26,7 @@ purple heart #7442c8
         </div>
     </div>
 
-    <div id="mobile-heading" class="d-block d-md-none">
+    <div id="mobile-heading" class="d-block d-lg-none">
         <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
         <div class="text-center mx-3">
             <h4 class="pb-0 mb-0">Dance With Us</h4>
@@ -227,7 +227,7 @@ purple heart #7442c8
             </div>
         </div>
         <div>
-            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 7%; bottom: -85px; z-index: 2;" class="d-none d-md-block">
+            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 7%; bottom: -85px; z-index: 2;" class="d-none d-lg-block">
         </div>
     </div>
 
@@ -243,7 +243,7 @@ purple heart #7442c8
                         <p>dance family</p>
                     </div>
                 </div>
-                <div class="d-md-none"><hr></div>
+                <div class="d-lg-none"><hr></div>
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;">
                     <div>
                         <ion-icon name="people" style="font-size: 2em;"></ion-icon>
@@ -251,7 +251,7 @@ purple heart #7442c8
                         <p>large studios</p>
                     </div>
                 </div>
-                <div class="d-md-none"><hr></div>
+                <div class="d-lg-none"><hr></div>
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;">
                     <div>
                         <ion-icon name="people" style="font-size: 2em;"></ion-icon>
@@ -264,7 +264,7 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="d-none d-md-block apple-partner">
+        <div class="d-none d-lg-block apple-partner">
             <div class="apple-partner-left">Dance Friends</div>
             <div class="apple-partner-right">Make the Best Friends</div>
         </div>
@@ -273,7 +273,7 @@ purple heart #7442c8
             <img src="/images/partnering.png" alt="dancer in costume" class="img-fluid">
         </div>
 
-        <div class="d-block d-md-none">
+        <div class="d-block d-lg-none">
             <h4 class="text-center text-uppercase" style="line-height: 0.9;">dance friends<br>make the best friends</h4>
         </div>
     </div>
@@ -304,11 +304,11 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="d-none d-md-block apple-boom">BOOM!</div>
+        <div class="d-none d-lg-block apple-boom">BOOM!</div>
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/boom.png" alt="dancer in costume" class="img-fluid">
         </div>
-        <div class="d-block d-md-none">
+        <div class="d-block d-lg-none">
             <h4 class="text-center text-uppercase">BOOM!</h4>
         </div>
     </div>
@@ -337,11 +337,11 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="d-none d-md-block apple-cta">Step Into Your Spotlight</div>
+        <div class="d-none d-lg-block apple-cta">Step Into Your Spotlight</div>
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/welcome-bottom.png" alt="dancer in costume" class="img-fluid">
         </div>
-        <div class="d-none d-md-block">
+        <div class="d-none d-lg-block">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3" style="position: absolute; bottom: 4%; left: 50%; transform: translateX(-50%); width: 100%;">
                 <div class="col-sm">
                     <div class="p-5 shadow rounded" style="background: white;">
@@ -363,7 +363,7 @@ purple heart #7442c8
                 </div>
             </div>
         </div>
-        <div class="d-block d-md-none text-center text-uppercase">
+        <div class="d-block d-lg-none text-center text-uppercase">
             <h4 style="line-height: 0.9;">Step Into Your Spotlight</h4>
             <div>
                 @include("_btn-register")
