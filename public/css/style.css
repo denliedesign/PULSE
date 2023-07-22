@@ -134,6 +134,9 @@ p, .font-basker {
     left: 11%;
 }
 
+.navbar-toggler-icon {
+    color: white !important;
+}
 
 <!-- -->
 

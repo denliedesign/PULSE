@@ -8,8 +8,8 @@ french violet #8806ce
 purple heart #7442c8
 -->
 
-{{--    <div id="fold"></div>--}}
-    <div style="position: relative;">
+
+    <div style="position: relative;" class="d-none d-md-block ">
         <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
         <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%);">
             <div class="text-center text-white" style="font-size: 2em;">
@@ -17,7 +17,6 @@ purple heart #7442c8
                     Dance With Us
                 </h4>
                 <div class="font-segoe fw-bold text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black;">
-{{--                    We offer--}}
                     dance classes in all styles, for all levels and ages
                 </div>
                 <div class="mt-3">
@@ -27,17 +26,17 @@ purple heart #7442c8
         </div>
     </div>
 
-{{-- last   <x-palette background="#6a0dad" text="white" btnBackground="#a020f0" btnText="white"/>--}}
-{{-- last       <x-palette background="#8806ce" text="white" btnBackground="#a020f0" btnText="white"/>--}}
-{{-- middle   <x-palette background="#5946b2" text="white" btnBackground="#a020f0" btnText="white"/>--}}
-{{-- middle   <x-palette background="#7442c8" text="white" btnBackground="#a020f0" btnText="white"/>--}}
-{{-- second   <x-palette background="#a020f0" text="white" btnBackground="#5946b2" btnText="white"/>--}}
-
-{{--    <x-palette background="linear-gradient(to right, #a020f0, #8806ce);" text="white" btnBackground="#5946b2" btnText="white"/>--}}
-
+    <div id="mobile-heading" class="d-block d-md-none">
+        <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
+        <div class="text-center mx-3">
+            <h4 class="pb-0 mb-0">Dance With Us</h4>
+            <p class="pt-0 mt-0 font-segoe fw-bold text-lowercase" style="line-height: 0.9;">
+                dance classes in all styles, for all levels and ages
+            </p>
+        </div>
+    </div>
 
     <div class="purple py-5">
-{{--        @include('_divider-top')--}}
         <div class="container">
             <video class="head-video" src="images/pulse.mp4" autoplay="" muted="" controls="" loop="">
             </video>
@@ -155,7 +154,7 @@ purple heart #7442c8
     <div class="py-5 purple">
         @include('_divider-top')
         <div class="container">
-            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-2 pt-5" style="font-size: 1.25em;">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 pt-5" style="font-size: 1.25em;">
                 <div class="col-sm text-center mt-5">
                     <img class="review-img shadow mb-4" src="/images/test-amanda.jpeg" alt="">
                     <div class="fw-bold" style="font-size: 1.25em;">Amanda Simone</div>
@@ -207,8 +206,8 @@ purple heart #7442c8
     <!---------------------------------------------------- MISTYS PASTE ---------------------------------->
     <!---------------------------------------------------- MISTYS PASTE ---------------------------------->
 
-    <div class="d-flex align-items-center justify-content-start" style="position: relative; height: 900px;">
-        <div class="container">
+    <div class="d-flex align-items-center justify-content-start pt-5" style="position: relative; height: 100%;">
+        <div class="container pt-3">
             <h4>Pulse Families Love Our...</h4>
             <div>
                 <p class="" style="font-size: 1.75em;">
@@ -228,7 +227,7 @@ purple heart #7442c8
             </div>
         </div>
         <div>
-            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 7%; bottom: 0; z-index: 2;">
+            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 7%; bottom: -85px; z-index: 2;" class="d-none d-md-block">
         </div>
     </div>
 
@@ -265,13 +264,17 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="apple-partner">
+        <div class="d-none d-md-block apple-partner">
             <div class="apple-partner-left">Dance Friends</div>
             <div class="apple-partner-right">Make the Best Friends</div>
         </div>
 
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/partnering.png" alt="dancer in costume" class="img-fluid">
+        </div>
+
+        <div class="d-block d-md-none">
+            <h4 class="text-center text-uppercase" style="line-height: 0.9;">dance friends<br>make the best friends</h4>
         </div>
     </div>
 
@@ -301,9 +304,12 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="apple-boom">BOOM!</div>
+        <div class="d-none d-md-block apple-boom">BOOM!</div>
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/boom.png" alt="dancer in costume" class="img-fluid">
+        </div>
+        <div class="d-block d-md-none">
+            <h4 class="text-center text-uppercase">BOOM!</h4>
         </div>
     </div>
 
@@ -331,30 +337,43 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="apple-cta">Step Into Your Spotlight</div>
+        <div class="d-none d-md-block apple-cta">Step Into Your Spotlight</div>
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/welcome-bottom.png" alt="dancer in costume" class="img-fluid">
         </div>
-                                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3" style="position: absolute; bottom: 4%; left: 50%; transform: translateX(-50%); width: 100%;">
-                                    <div class="col-sm">
-                                        <div class="p-5 shadow rounded" style="background: white;">
-                                            <p class="txt-purple text-center fw-bold pb-0 mb-0">Ready To Dance?</p>
-                                            @include("_btn-register")
-                                        </div>
-                                    </div>
-                                    <div class="col-sm"></div>
-                                    <div class="col-sm">
-                                        <div class="p-5 shadow rounded" style="background: white;">
-                                            <p class="txt-purple text-center fw-bold pb-0 mb-0">Questions?</p>
-                                            <div class="d-flex justify-content-center">
-                                                <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
-                                                    <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
-                                                </a>
-                                            </div>
+        <div class="d-none d-md-block">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3" style="position: absolute; bottom: 4%; left: 50%; transform: translateX(-50%); width: 100%;">
+                <div class="col-sm">
+                    <div class="p-5 shadow rounded" style="background: white;">
+                        <p class="txt-purple text-center fw-bold pb-0 mb-0">Ready To Dance?</p>
+                        @include("_btn-register")
+                    </div>
+                </div>
+                <div class="col-sm"></div>
+                <div class="col-sm">
+                    <div class="p-5 shadow rounded" style="background: white;">
+                        <p class="txt-purple text-center fw-bold pb-0 mb-0">Questions?</p>
+                        <div class="d-flex justify-content-center">
+                            <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                                <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
+                            </a>
+                        </div>
 
-                                        </div>
-                                    </div>
-                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-block d-md-none text-center text-uppercase">
+            <h4 style="line-height: 0.9;">Step Into Your Spotlight</h4>
+            <div>
+                @include("_btn-register")
+                <div class="d-flex justify-content-center">
+                    <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                        <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="py-5 purple">
