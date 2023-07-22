@@ -1,16 +1,16 @@
 <div id="top" class="py-2">
     <ul class="nav justify-content-center">
-        <li class="nav-item font-segoe mx-4">
+        <li class="nav-item text-center font-segoe mx-4">
             <ion-icon name="pin"></ion-icon>
             196 Route 117 Bypass Road,
             Bedford Hills, NY
             10507
         </li>
-        <li class="nav-item font-segoe mx-4">
+        <li class="nav-item text-center font-segoe mx-4">
             <ion-icon name="call"></ion-icon>
             914.241.0200
         </li>
-        <li class="nav-item font-segoe mx-4">
+        <li class="nav-item text-center font-segoe mx-4">
             <ion-icon name="mail"></ion-icon>
             kelly@performthepulse.com
         </li>

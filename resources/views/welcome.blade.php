@@ -71,7 +71,7 @@ purple heart #7442c8
                     <img src="/images/age2-4.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age2-4" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 2-4
                             </h6>
                         </div>
@@ -81,7 +81,7 @@ purple heart #7442c8
                     <img src="/images/age5-6.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age5-6" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 5-6
                             </h6>
                         </div>
@@ -91,7 +91,7 @@ purple heart #7442c8
                     <img src="/images/age7-8.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age7-8" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 7-8
                             </h6>
                         </div>
@@ -101,7 +101,7 @@ purple heart #7442c8
                     <img src="/images/age9-10.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age9-10" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 9-10
                             </h6>
                         </div>
@@ -111,7 +111,7 @@ purple heart #7442c8
                     <img src="/images/age11-12.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age11-12" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 11-12
                             </h6>
                         </div>
@@ -121,7 +121,7 @@ purple heart #7442c8
                     <img src="/images/age13-18.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age13-18" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Age 13-18
                             </h6>
                         </div>
@@ -131,7 +131,7 @@ purple heart #7442c8
                     <img src="/images/acro.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/acro" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Acro
                             </h6>
                         </div>
@@ -141,7 +141,7 @@ purple heart #7442c8
                     <img src="/images/boys.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/boys" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6>
+                            <h6 class="text-center">
                                 Boys
                             </h6>
                         </div>
