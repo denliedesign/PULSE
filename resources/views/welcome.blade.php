@@ -11,16 +11,21 @@ purple heart #7442c8
 
     <div style="position: relative;" class="d-none d-lg-block ">
         <img src="/images/passe-evolution.jpg" alt="" class="img-fluid" style="width: 100%;">
-        <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%);">
+        <div style="position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
             <div class="text-center text-white" style="font-size: 2em;">
-                <h4 class="pb-0 mb-0" style="text-shadow: 2px 2px 4px black;">
+                <h4 class="pb-0 mb-0" style="text-shadow: 2px 2px 4px black; line-height: .9;">
                     Dance With Us
                 </h4>
                 <div class="font-segoe fw-bold text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black;">
                     dance classes in all styles, for all levels and ages
                 </div>
-                <div class="mt-3">
-                    @include('_btn-register')
+                <div class="mt-1">
+                    <div class="d-flex justify-content-center">
+                        @include('_btn-register')
+                        <a class="mx-3" href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                            <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -207,14 +212,15 @@ purple heart #7442c8
     <!---------------------------------------------------- MISTYS PASTE ---------------------------------->
 
     <div class="d-flex align-items-center justify-content-start pt-5" style="position: relative; height: 100%;">
-        <div class="container pt-3">
+        <div class="container pt-3" style="z-index: 4;">
             <h4>Pulse Families Love Our...</h4>
             <div>
                 <p class="" style="font-size: 1.75em;">
                     <span class="txt-purple"><ion-icon name="star"></ion-icon></span>  Programs for every level of commitment
-                    <br>(Pre-K, Boys-Only, Recreational, Community, & Competitive)
+                    <br><small>(Pre-K, Boys-Only, Recreational, Community, & Competitive)</small>
                     <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> 4 large studios with a built in performance space
-                    <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Marley covered sprung floors & professional equipment
+                    <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Marley covered sprung floors
+                    <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Professional equipment
                     <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Fun colorful lighting
                     <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Spacious lobby with ample seating and wifi
                     <br><span class="txt-purple"><ion-icon name="star"></ion-icon></span> Easy drop off/pick up with convenient parking
@@ -227,7 +233,47 @@ purple heart #7442c8
             </div>
         </div>
         <div>
-            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 7%; bottom: -85px; z-index: 2;" class="d-none d-lg-block">
+            <img src="/images/parents-love-pulse.png" alt="ballerina in arabesque" style="position: absolute; right: 0; bottom: -85px; z-index: 2;" class="d-none d-lg-block">
+        </div>
+    </div>
+
+    <div class="py-5 purple">
+        @include('_divider-top')
+        <div style="height: 85px;"></div>
+        <div class="container py-5 d-flex align-items-center" style="height: 100%;">
+            <div>
+                <h4 class="text-center">Students who regularly participate in dance...</h4>
+                <div class="d-flex justify-content-center">
+                    <ul class="font-basker">
+                        <li>Earn higher GPAs</li>
+                        <li>Perform better in science, math, and writing</li>
+                        <li>Earn higher test scores on SATs</li>
+                        <li>Enroll in 4-year colleges and earn mostly As</li>
+                    </ul>
+                </div>
+                <p class="text-center" style="opacity: 75%;">
+                    <small>Source: National Endowment for the Arts</small>
+                </p>
+                <hr>
+                <p>
+                    "Dance is more than learning how to pointe your toe, shuffle, and turn; it’s about learning who you are and learning to love something that inspires you, challenges you, and most importantly - makes you smile." - <em>Jennifer Dell</em>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="position: relative;">
+{{--        <div class="d-none d-lg-block apple-partner">--}}
+{{--            <div class="apple-partner-left">Dance Friends</div>--}}
+{{--            <div class="apple-partner-right">Make the Best Friends</div>--}}
+{{--        </div>--}}
+
+        <div class="d-flex justify-content-center align-items-center">
+            <img src="/images/partnering.png" alt="dancer in costume" class="img-fluid">
+        </div>
+
+        <div class="d-block">
+            <h4 class="text-center text-uppercase" style="line-height: 0.9;">dance friends<br>make the best friends</h4>
         </div>
     </div>
 
@@ -263,52 +309,14 @@ purple heart #7442c8
         </div>
     </div>
 
-    <div class="container" style="position: relative;">
-        <div class="d-none d-lg-block apple-partner">
-            <div class="apple-partner-left">Dance Friends</div>
-            <div class="apple-partner-right">Make the Best Friends</div>
-        </div>
 
-        <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/partnering.png" alt="dancer in costume" class="img-fluid">
-        </div>
-
-        <div class="d-block d-lg-none">
-            <h4 class="text-center text-uppercase" style="line-height: 0.9;">dance friends<br>make the best friends</h4>
-        </div>
-    </div>
-
-    <div class="py-5 purple">
-        @include('_divider-top')
-        <div style="height: 85px;"></div>
-        <div class="container py-5 d-flex align-items-center" style="height: 100%;">
-            <div>
-                <h4 class="text-center">Students who regularly participate in dance...</h4>
-                <div class="d-flex justify-content-center">
-                    <ul class="font-basker">
-                        <li>Earn higher GPAs</li>
-                        <li>Perform better in science, math, and writing</li>
-                        <li>Earn higher test scores on SATs</li>
-                        <li>Enroll in 4-year colleges and earn mostly As</li>
-                    </ul>
-                </div>
-                <p class="text-center" style="opacity: 75%;">
-                    <small>Source: National Endowment for the Arts</small>
-                </p>
-                <hr>
-                <p>
-                    "Dance is more than learning how to pointe your toe, shuffle, and turn; it’s about learning who you are and learning to love something that inspires you, challenges you, and most importantly - makes you smile." - <em>Jennifer Dell</em>
-                </p>
-            </div>
-        </div>
-    </div>
 
     <div class="container" style="position: relative;">
-        <div class="d-none d-lg-block apple-boom">BOOM!</div>
+{{--        <div class="d-none d-lg-block apple-boom">BOOM!</div>--}}
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/boom.png" alt="dancer in costume" class="img-fluid">
         </div>
-        <div class="d-block d-lg-none">
+        <div class="d-block">
             <h4 class="text-center text-uppercase">BOOM!</h4>
         </div>
     </div>
@@ -337,11 +345,11 @@ purple heart #7442c8
     </div>
 
     <div class="container" style="position: relative;">
-        <div class="d-none d-lg-block apple-cta">Step Into Your Spotlight</div>
+{{--        <div class="d-none d-lg-block apple-cta">Step Into Your Spotlight</div>--}}
         <div class="d-flex justify-content-center align-items-center">
             <img src="/images/welcome-bottom.png" alt="dancer in costume" class="img-fluid">
         </div>
-        <div class="d-none d-lg-block">
+        <div class="d-none d-lg-none">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3" style="position: absolute; bottom: 4%; left: 50%; transform: translateX(-50%); width: 100%;">
                 <div class="col-sm">
                     <div class="p-5 shadow rounded" style="background: white;">
@@ -363,13 +371,13 @@ purple heart #7442c8
                 </div>
             </div>
         </div>
-        <div class="d-block d-lg-none text-center text-uppercase">
+        <div class="d-block text-center text-uppercase">
             <h4 style="line-height: 0.9;">Step Into Your Spotlight</h4>
             <div>
-                @include("_btn-register")
                 <div class="d-flex justify-content-center">
+                @include("_btn-register")
                     <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
-                        <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
+                        <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe mx-3" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
                     </a>
                 </div>
             </div>

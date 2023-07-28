@@ -5,10 +5,10 @@ function animate() {
     gsap.to('.apple-partner', {y: '25', scrollTrigger: {
             scrub: true,
         }});
-    gsap.from('.apple-partner-right', {x: '-300', scrollTrigger: {
+    gsap.to('.apple-partner-right', {x: '300', scrollTrigger: {
             scrub: true,
         }});
-    gsap.from('.apple-partner-left', {x: '300', scrollTrigger: {
+    gsap.to('.apple-partner-left', {x: '-30', scrollTrigger: {
             scrub: true,
         }});
     gsap.from('.apple-cta', {x: '-250', scrollTrigger: {

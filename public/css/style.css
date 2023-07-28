@@ -18,7 +18,7 @@
 }
 
 h4 {
-    font-size: 3.75em;
+    font-size: 3.5em;
     /*font-weight: bold;*/
     /*font-style: italic;*/
     font-family: 'Anton', sans-serif;
@@ -108,8 +108,10 @@ p, .font-basker {
     text-transform: uppercase;
     font-size: 6em;
     line-height: 0.9;
-    left: 11%;
 }
+
+.apple-partner-left { left: 0; }
+.apple-partner-right { right: 0; }
 
 .apple-cta {
     position: absolute;

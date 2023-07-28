@@ -12,7 +12,9 @@
         </li>
         <li class="nav-item text-center font-segoe mx-4">
             <ion-icon name="mail"></ion-icon>
-            kelly@performthepulse.com
+            <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none; color: black;">
+                kelly@performthepulse.com
+            </a>
         </li>
     </ul>
 </div>
@@ -31,7 +33,7 @@
 
 
 <div class="d-lg-none d-flex justify-content-center pt-3" style="background: #231F20;">
-    <a class="navbar-brand" href="/"><img src="/images/logo-pulse-original.png" alt="pulse logo" style="height: 150px;"></a>
+    <a class="navbar-brand" href="/"><img src="/images/logo-pulse-original.png" alt="pulse logo" style="height: 125px;"></a>
 </div>
 <nav class="navbar navbar-expand-lg" style="background: #231F20; font-size: 1.33em;">
     <div class="container-fluid d-flex justify-content-center">
@@ -40,13 +42,13 @@
         </button>
         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
             <ul class="navbar-nav mb-2 mb-lg-0 align-items-center">
-                <li class="d-none d-lg-block nav-item mx-5">
+                <li class="d-none d-lg-block nav-item mx-2">
                     <a class="nav-link" href="/">
-                        <img src="/images/logo-pulse-original.png" alt="pulse logo" style="height: 150px;">
+                        <img src="/images/logo-pulse-original.png" alt="pulse logo" style="height: 125px;">
                     </a>
                 </li>
                 <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
-                    <a class="nav-link text-white" href="/about">About Us</a>
+                    <a class="nav-link text-white" href="/about">About</a>
                 </li>
                 <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
                     <a class="nav-link text-white" href="/classes">Classes</a>
@@ -63,6 +65,9 @@
                 <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
                     <a class="nav-link text-white" href="https://app.akadadance.com/customer/login?schoolId=AK600731J&c=1" target="_blank">Registration</a>
                 </li>
+{{--                <li class="nav-item fw-bold text-uppercase font-segoe mx-2">--}}
+{{--                    <a class="nav-link text-white" href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact">Contact</a>--}}
+{{--                </li>--}}
             </ul>
         </div>
     </div>
