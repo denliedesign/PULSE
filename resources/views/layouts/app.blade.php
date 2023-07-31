@@ -5,6 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
+        <meta property="og:title" content="The Pulse | Bedford Hills, NY">
+        <meta property="og:description" content="Whether taking class for just fun or with bigger goals in mind, our dance classes offer a fun and supportive environment with a curriculum personalized for your dancer.">
+        <meta property="og:image" content="https://performthepulse.com/images/within-about.jpg">
+        <meta property="og:url" content="https://performthepulse.com">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="description" content="Whether taking class for just fun or with bigger goals in mind, our dance classes offer a fun and supportive environment with a curriculum personalized for your dancer.">
+
         <title>@yield('title', 'The Pulse | Bedford Hills, NY')</title>
 
         <!-- Fonts -->
