@@ -50,18 +50,21 @@
                                 <li class="list-group-item font-segoe px-0 border-0">
                                     <a class="text-decoration-none text-white" href="/competition">Competition</a>
                                 </li>
+                                <li class="list-group-item font-segoe px-0 border-0">
+                                    <a class="text-decoration-none text-white" href="/nova">Nova</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="col-sm">
                             <ul class="list-group-dark ps-0" style="font-size: 1.33em;">
                                 <li class="list-group-item font-segoe px-0 border-0">
-                                    <a class="text-decoration-none text-white" href="/nova">Nova</a>
-                                </li>
-                                <li class="list-group-item font-segoe px-0 border-0">
                                     <a class="text-decoration-none text-white" href="/calendar">Calendar</a>
                                 </li>
                                 <li class="list-group-item font-segoe px-0 border-0">
                                     <a class="text-decoration-none text-white" href="https://app.akadadance.com/customer/login?schoolId=AK600731J&c=1" target="_blank">Registration</a>
+                                </li>
+                                <li class="list-group-item font-segoe px-0 border-0">
+                                    <a class="text-decoration-none text-white" href="/dashboard">Admin</a>
                                 </li>
                             </ul>
                         </div>
