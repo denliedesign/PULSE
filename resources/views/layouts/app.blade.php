@@ -12,6 +12,16 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="description" content="Whether taking class for just fun or with bigger goals in mind, our dance classes offer a fun and supportive environment with a curriculum personalized for your dancer.">
 
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-C3Y15P9K1R"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-C3Y15P9K1R');
+        </script>
+
         <title>@yield('title', 'The Pulse | Bedford Hills, NY')</title>
 
         <!-- Fonts -->
