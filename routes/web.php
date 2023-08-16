@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContentController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -56,6 +57,8 @@ Route::get('acro', function () {
 Route::get('boys', function () {
     return view('boys');
 });
+
+Route::resource('contents', ContentController::class);
 
 Route::get('/dashboard', function () {
     return view('dashboard');

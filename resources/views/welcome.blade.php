@@ -22,7 +22,7 @@ purple heart #7442c8
                 <div class="mt-1">
                     <div class="d-flex justify-content-center">
                         @include('_btn-register')
-                        <a class="mx-3" href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                        <a class="mx-3" href="mailto:kelly@thepulseny.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
                             <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
                         </a>
                     </div>
@@ -362,7 +362,7 @@ purple heart #7442c8
                     <div class="p-5 shadow rounded" style="background: white;">
                         <p class="txt-purple text-center fw-bold pb-0 mb-0">Questions?</p>
                         <div class="d-flex justify-content-center">
-                            <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                            <a href="mailto:kelly@thepulseny.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
                                 <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
                             </a>
                         </div>
@@ -376,7 +376,7 @@ purple heart #7442c8
             <div>
                 <div class="d-flex justify-content-center">
                 @include("_btn-register")
-                    <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
+                    <a href="mailto:kelly@thepulseny.com?subject=The Pulse Web Contact" style="text-decoration: none;" class="text-white">
                         <div class="btn btn-lg brand-btn-outline shadow mt-2 fw-bold font-segoe mx-3" style="border: 3px solid #5946b2; color: #5946b2;">Contact Us</div>
                     </a>
                 </div>

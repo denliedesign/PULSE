@@ -23,3 +23,6 @@ window.addEventListener('load', function(){
     animate();
 })
 
+function AddContentTag(c) {
+    document.getElementById('tag').value += c;
+};

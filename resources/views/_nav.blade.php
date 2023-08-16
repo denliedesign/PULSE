@@ -12,8 +12,8 @@
         </li>
         <li class="nav-item text-center font-segoe mx-4">
             <ion-icon name="mail"></ion-icon>
-            <a href="mailto:kelly@performthepulse.com?subject=The Pulse Web Contact" style="text-decoration: none; color: black;">
-                kelly@performthepulse.com
+            <a href="mailto:kelly@thepulseny.com?subject=The Pulse Web Contact" style="text-decoration: none; color: black;">
+                kelly@thepulseny.com
             </a>
         </li>
     </ul>
