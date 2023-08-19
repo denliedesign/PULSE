@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Models\Content;
+use App\Models\Photo;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 
@@ -22,5 +23,6 @@ class AppServiceProvider extends ServiceProvider
     public function boot(): void
     {
         View::share('contents', Content::all());
+        View::share('photos', Photo::all());
     }
 }

@@ -10,15 +10,16 @@
     <div class="container py-5">
         <h4 class="text-center">About Us</h4>
         <x-content tag="about"/>
+        <x-photo tag="about" class="img-fluid" style="max-height: 500px; width: auto;"/>
 {{--        <p>--}}
 {{--            Hi!--}}
 {{--            <br><br>--}}
 {{--            My name is Jennifer Dell, the Artistic Director & Co-Owner of the Pulse. When my husband Bill and I founded this studio 19 years ago, we never could have guessed the way our community would transform over a shared love of dance.--}}
 {{--        </p>--}}
-        <div class="d-flex justify-content-center">
-            <div>
-                <img src="/images/jenn-headshot.jpg" alt="jenn headshot" class="img-fluid shadow rounded">
-            </div>
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <div>--}}
+{{--                <img src="/images/jenn-headshot.jpg" alt="jenn headshot" class="img-fluid shadow rounded">--}}
+{{--            </div>--}}
 {{--            <div class="col-sm">--}}
 {{--                <p>--}}
 {{--                    I started this studio because I wanted to provide children with the tools to become more responsible, dedicated, and confident adults. We aim to instill leadership, self-esteem, and self-confidence in all our students, but we also believe in ice cream, fun, and just letting kids be kids.--}}
@@ -32,7 +33,7 @@
 {{--                    Welcome to the Pulse!--}}
 {{--                </p>--}}
 {{--            </div>--}}
-        </div>
+{{--        </div>--}}
     </div>
 
 @endsection

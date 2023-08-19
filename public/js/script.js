@@ -26,3 +26,7 @@ window.addEventListener('load', function(){
 function AddContentTag(c) {
     document.getElementById('tag').value += c;
 };
+
+function AddPhotoTag(c) {
+    document.getElementById('photoTag').value += c;
+};

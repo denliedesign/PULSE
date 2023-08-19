@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ContentController;
+use App\Http\Controllers\PhotoController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -59,6 +60,7 @@ Route::get('boys', function () {
 });
 
 Route::resource('contents', ContentController::class);
+Route::resource('photos', PhotoController::class);
 
 Route::get('/dashboard', function () {
     return view('dashboard');
