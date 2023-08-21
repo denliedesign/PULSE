@@ -14,6 +14,7 @@
             <div class="col-sm"><x-photo tag="classes" class="img-fluid" style=""/></div>
             <div class="col-sm"><x-photo tag="classes-2" class="img-fluid" style=""/></div>
         </div>
+        <p class="text-center">Register for your dance classes in Northern Westchester today!</p>
         @include('_btn-register')
     </div>
 {{--        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">--}}

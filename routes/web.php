@@ -58,6 +58,9 @@ Route::get('acro', function () {
 Route::get('boys', function () {
     return view('boys');
 });
+Route::get('northern-westchester-dance-studios', function () {
+    return view('northern-westchester-dance-studios');
+});
 
 Route::resource('contents', ContentController::class);
 Route::resource('photos', PhotoController::class);

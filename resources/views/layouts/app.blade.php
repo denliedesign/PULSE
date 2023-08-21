@@ -10,7 +10,7 @@
         <meta property="og:image" content="https://performthepulse.com/images/within-about.jpg">
         <meta property="og:url" content="https://performthepulse.com">
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="description" content="Whether taking class for just fun or with bigger goals in mind, our dance classes offer a fun and supportive environment with a curriculum personalized for your dancer.">
+        <meta name="description" content="@yield('description', 'Whether taking class for just fun or with bigger goals in mind, our dance classes offer a fun and supportive environment with a curriculum personalized for your dancer.')">
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-C3Y15P9K1R"></script>
@@ -22,7 +22,7 @@
             gtag('config', 'G-C3Y15P9K1R');
         </script>
 
-        <title>@yield('title', 'The Pulse | Bedford Hills, NY')</title>
+        <title>@yield('title', 'The Pulse | Northern Westchester Dance, Bedford Hills, NY')</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">

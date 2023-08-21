@@ -70,7 +70,7 @@ purple heart #7442c8
     <div class="py-5">
         {{--        @include('_divider-top')--}}
         <div class="container">
-            <h4 class="text-center">Classes</h4>
+            <h4 class="text-center">Dance Classes in Northern Westchester</h4>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm my-2" style="position: relative;">
                     <img src="/images/age2-4.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">

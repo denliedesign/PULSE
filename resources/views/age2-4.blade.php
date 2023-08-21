@@ -13,6 +13,7 @@
         </div>
         @include('_btn-register')
         <img src="/images/class-2-4.jpg" alt="" class="img-fluid">
+        <p class="text-center">Register for your dance classes in Northern Westchester today!</p>
         @include('_btn-register')
     </div>
 

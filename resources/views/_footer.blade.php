@@ -104,6 +104,9 @@
     </div>
 </div>
 <div class="text-white-50 text-center py-3 font-segoe" style="background: #231F20;">
+    <a href="/northern-westchester-dance-studios" class="text-decoration-none text-white-50">Northern Westchester Dance Studios</a> &nbsp; &middot; &nbsp;
+    <a href="https://denliedesign.com" class="text-decoration-none text-white-50" target="_blank">Dance Website Design By Denlie Design</a>
+    <br>
     © 2023 The Pulse Performing Arts Studio
 </div>
 {{--<p id="credit" class="text-center pb-3 m-0 font-segoe" style="background: #231F20;">--}}
