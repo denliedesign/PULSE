@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('title', 'Northern Westchester Dance Classes | The Pulse Performing Arts Studio')
+@section('description', 'Discover the Joy of Movement with The Pulse: Your Premier Choice for Northern Westchester Dance Classes! Our Dance Studio Offers a Variety of Styles for All Ages. Join Us and Unleash Your Passion for Dance in Northern Westchester. Explore Our Range of Dance Classes Today')
 @section('content')
 
     <div class="banner-wrap-lg d-none d-md-block">
@@ -9,6 +11,7 @@
 
     <div class="container py-5">
         <h4 class="text-center">2023-2024 Class Schedule</h4>
+        <p class="text-center">Northern Westchester Dance Classes</p>
         @include('_btn-register')
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
             <div class="col-sm"><x-photo tag="classes" class="img-fluid" style=""/></div>

@@ -16,8 +16,8 @@ purple heart #7442c8
                 <h4 class="pb-0 mb-0" style="text-shadow: 2px 2px 4px black; line-height: .9;">
                     Dance With Us
                 </h4>
-                <div class="font-segoe fw-bold text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black;">
-                    dance classes in all styles, for all levels and ages
+                <div class="font-segoe fw-bold text-lowercase mt-0 pt-0" style="text-shadow: 2px 2px 4px black; line-height: 0.9;">
+                    Northern Westchester dance classes<br>in all styles, for all levels and ages
                 </div>
                 <div class="mt-1">
                     <div class="d-flex justify-content-center">
@@ -36,7 +36,7 @@ purple heart #7442c8
         <div class="text-center mx-3">
             <h4 class="pb-0 mb-0">Dance With Us</h4>
             <p class="pt-0 mt-0 font-segoe fw-bold text-lowercase" style="line-height: 0.9;">
-                dance classes in all styles, for all levels and ages
+                Northern Westchester dance classes in all styles, for all levels and ages
             </p>
         </div>
     </div>
