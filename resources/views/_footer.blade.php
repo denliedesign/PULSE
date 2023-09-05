@@ -108,6 +108,7 @@
     <br>
     <a href="/northern-westchester-dance-studios" class="text-decoration-none text-white-50">Northern Westchester Dance Studios</a> &nbsp; &middot; &nbsp;
     <a href="/mt-kisco-dance-studios" class="text-decoration-none text-white-50">Mt Kisco Dance Studios</a> &nbsp; &middot; &nbsp;
+    <a href="/mount-kisco-dance-studios" class="text-decoration-none text-white-50">Mount Kisco Dance Studios</a> &nbsp; &middot; &nbsp;
     <a href="https://denliedesign.com" class="text-decoration-none text-white-50" target="_blank">Dance Website Design By Denlie Design</a>
 </div>
 {{--<p id="credit" class="text-center pb-3 m-0 font-segoe" style="background: #231F20;">--}}

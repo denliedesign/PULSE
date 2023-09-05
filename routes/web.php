@@ -64,6 +64,9 @@ Route::get('northern-westchester-dance-studios', function () {
 Route::get('mt-kisco-dance-studios', function () {
     return view('mt-kisco-dance-studios');
 });
+Route::get('mount-kisco-dance-studios', function () {
+    return view('mount-kisco-dance-studios');
+});
 
 Route::resource('contents', ContentController::class);
 Route::resource('photos', PhotoController::class);
