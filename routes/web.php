@@ -70,6 +70,9 @@ Route::get('mount-kisco-dance-studios', function () {
 Route::get('bedford-dance-classes-toddler', function () {
     return view('bedford-dance-classes-toddler');
 });
+Route::get('dance-studios-mount-kisco', function () {
+    return view('dance-studios-mount-kisco');
+});
 
 Route::resource('contents', ContentController::class);
 Route::resource('photos', PhotoController::class);
