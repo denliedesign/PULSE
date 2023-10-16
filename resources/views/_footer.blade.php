@@ -111,6 +111,7 @@
     <a href="/mount-kisco-dance-studios" class="text-decoration-none text-white-50">Mount Kisco Dance Studios</a> &nbsp; &middot; &nbsp;
     <a href="/dance-studios-mount-kisco" class="text-decoration-none text-white-50">Dance Studios Mount Kisco</a> &nbsp; &middot; &nbsp;
     <a href="/bedford-dance-classes-toddler" class="text-decoration-none text-white-50">Bedford Dance Classes Toddler</a> &nbsp; &middot; &nbsp;
+    <a href="/dance-classes-bedford" class="text-decoration-none text-white-50">Dance Classes Bedford</a> &nbsp; &middot; &nbsp;
     <br>
     <a href="https://denliedesign.com" class="text-decoration-none text-white-50" target="_blank">Dance Website Design By Denlie Design</a>
 </div>
