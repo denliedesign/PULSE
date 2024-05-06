@@ -10,7 +10,7 @@
     <div class="container py-5">
         {{--        <h4 class="text-center">Dance Classes for Preschoolers Ages 2-4</h4>--}}
         @include('_btn-register')
-        <img src="/images/class-5-6.jpg" alt="" class="img-fluid">
+        <img src="/images/24-classes-2.JPG" alt="" class="img-fluid">
         <p class="text-center">Register for your dance classes in Northern Westchester today!</p>
         @include('_btn-register')
     </div>
