@@ -5,7 +5,7 @@
         <div class="banner within-7-8"></div>
     </div>
 
-    <img src="/images/within-7-8.jpg" alt="girl doing headstand" class="img-fluid d-block d-md-none">
+    <img src="/images/24-classes-3.JPG" alt="girl doing headstand" class="img-fluid d-block d-md-none">
 
     <div class="container py-5">
         {{--        <h4 class="text-center">Dance Classes for Preschoolers Ages 2-4</h4>--}}
