@@ -1,11 +1,13 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap-lg d-none d-md-block">
-        <div class="banner within-preschool"></div>
-    </div>
+    <x-photo tag="banner-calendar" class="img-fluid" style="width: 100%; height: 500px; object-fit: cover; object-position: center;"/>
 
-    <img src="/images/preschool-banner.jpg" alt="three preschoolers on their tummies smiling" class="img-fluid d-block d-md-none">
+    {{--    <div class="banner-wrap-lg d-none d-md-block">--}}
+{{--        <div class="banner within-preschool"></div>--}}
+{{--    </div>--}}
+
+{{--    <img src="/images/preschool-banner.jpg" alt="three preschoolers on their tummies smiling" class="img-fluid d-block d-md-none">--}}
 
     <div class="container py-5">
         <h4 class="text-center">Calendar</h4>

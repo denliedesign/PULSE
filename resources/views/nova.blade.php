@@ -1,11 +1,13 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner within-nova"></div>
-    </div>
+    <x-photo tag="banner-nova" class="img-fluid" style="width: 100%; height: 500px; object-fit: cover; object-position: center;"/>
 
-    <img src="/images/nova-3.jpg" alt="girl doing leg grab on stage" class="img-fluid d-block d-md-none">
+    {{--    <div class="banner-wrap d-none d-md-block">--}}
+{{--        <div class="banner within-nova"></div>--}}
+{{--    </div>--}}
+
+{{--    <img src="/images/nova-3.jpg" alt="girl doing leg grab on stage" class="img-fluid d-block d-md-none">--}}
 {{--    <x-photo tag="nova-banner" class="img-fluid d-block d-md-none" style="" />--}}
 
 {{--<div>--}}

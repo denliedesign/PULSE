@@ -3,6 +3,7 @@
 use App\Http\Controllers\ContentController;
 use App\Http\Controllers\PhotoController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\TeacherController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,6 +19,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+Route::get('staff', function () {
+    return view('staff');
 });
 Route::get('about', function () {
     return view('about');
@@ -79,6 +83,7 @@ Route::get('dance-studios-mount-kisco', function () {
 
 Route::resource('contents', ContentController::class);
 Route::resource('photos', PhotoController::class);
+Route::resource('teachers', TeacherController::class);
 
 Route::get('/dashboard', function () {
     return view('dashboard');

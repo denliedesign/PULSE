@@ -51,6 +51,9 @@
                     <a class="nav-link text-white" href="/about">About</a>
                 </li>
                 <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
+                    <a class="nav-link text-white" href="/staff">Staff</a>
+                </li>
+                <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
                     <a class="nav-link text-white" href="/classes">Classes</a>
                 </li>
                 <li class="nav-item fw-bold text-uppercase font-segoe mx-2">
