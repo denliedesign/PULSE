@@ -25,6 +25,6 @@ class AppServiceProvider extends ServiceProvider
     {
         View::share('contents', Content::all());
         View::share('photos', Photo::all());
-        View::share('teachers', Teacher::all());
+//        View::share('teachers', Teacher::all());
     }
 }
