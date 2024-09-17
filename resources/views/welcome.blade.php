@@ -103,7 +103,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age9-10.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/age-9-10.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age9-10" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -143,7 +143,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/boys.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/boys-2.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/boys" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -269,7 +269,7 @@ purple heart #7442c8
 {{--        </div>--}}
 
         <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/partnering.png" alt="dancer in costume" class="img-fluid">
+            <img src="/images/dance-friends-make-the-best-friends.png" alt="dancer in costume" class="img-fluid">
         </div>
 
         <div class="d-block">
@@ -301,7 +301,7 @@ purple heart #7442c8
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;">
                     <div>
                         <ion-icon name="people" style="font-size: 2em;"></ion-icon>
-                        <h5 style="font-size: 2em;">12</h5>
+                        <h5 style="font-size: 2em;">20</h5>
                         <p>professional staff</p>
                     </div>
                 </div>
@@ -314,7 +314,7 @@ purple heart #7442c8
     <div class="container" style="position: relative;">
 {{--        <div class="d-none d-lg-block apple-boom">BOOM!</div>--}}
         <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/boom.png" alt="dancer in costume" class="img-fluid">
+            <img src="/images/boom-2.png" alt="dancer in costume" class="img-fluid">
         </div>
         <div class="d-block">
             <h4 class="text-center text-uppercase">BOOM!</h4>
