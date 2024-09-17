@@ -12,7 +12,8 @@
             <img src="/images/logo-pulse-preschool.png" alt="" class="img-fluid">
         </div>
         @include('_btn-register')
-        <img src="/images/24-classes-1.JPG" alt="" class="img-fluid">
+{{--        <img src="/images/24-classes-1.JPG" alt="" class="img-fluid">--}}
+        <x-photo tag="age2-4" class="img-fluid" style=""/>
         <p class="text-center">Register for your dance classes in Northern Westchester today!</p>
         @include('_btn-register')
     </div>
