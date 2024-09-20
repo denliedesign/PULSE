@@ -1,11 +1,12 @@
 @extends('layouts.app')
 @section('content')
 
-    <div class="banner-wrap-lg d-none d-md-block">
-        <div class="banner within-7-8"></div>
-    </div>
+    <x-photo tag="banner-age7-8" class="img-fluid" style="width: 100%; height: 500px; object-fit: cover; object-position: center;"/>
 
-    <img src="/images/24-classes-3.JPG" alt="girl doing headstand" class="img-fluid d-block d-md-none">
+    {{--    <div class="banner-wrap-lg d-none d-md-block">--}}
+{{--        <div class="banner within-7-8"></div>--}}
+{{--    </div>--}}
+{{--    <img src="/images/24-classes-3.JPG" alt="girl doing headstand" class="img-fluid d-block d-md-none">--}}
 
     <div class="container py-5">
         {{--        <h4 class="text-center">Dance Classes for Preschoolers Ages 2-4</h4>--}}
