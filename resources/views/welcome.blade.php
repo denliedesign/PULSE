@@ -83,7 +83,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age5-6.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-5-6.jpeg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age5-6" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -143,7 +143,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/boys-2.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/age-boys.jpeg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/boys" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">

@@ -12,7 +12,7 @@
 {{--    <img src="/images/preschool-banner.jpg" alt="three preschoolers on their tummies smiling" class="img-fluid d-block d-md-none">--}}
 
     <div class="container py-5">
-        <h4 class="text-center">2024-2025 Class Schedule</h4>
+        <h4 class="text-center">2025-2026 Class Schedule</h4>
         <p class="text-center">Northern Westchester Dance Classes</p>
         @include('_btn-register')
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
