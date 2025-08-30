@@ -269,7 +269,7 @@ purple heart #7442c8
 {{--        </div>--}}
 
         <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/dance-friends-make-the-best-friends.png" alt="dancer in costume" class="img-fluid">
+            <img src="/images/friends-25.jpeg" alt="dancer in costume" class="img-fluid">
         </div>
 
         <div class="d-block">
@@ -314,7 +314,7 @@ purple heart #7442c8
     <div class="container" style="position: relative;">
 {{--        <div class="d-none d-lg-block apple-boom">BOOM!</div>--}}
         <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/boom-2.png" alt="dancer in costume" class="img-fluid">
+            <img src="/images/boom-25.jpeg" alt="dancer in costume" class="img-fluid">
         </div>
         <div class="d-block">
             <h4 class="text-center text-uppercase">BOOM!</h4>
