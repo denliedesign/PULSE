@@ -50,11 +50,20 @@ Route::get('age7-8', function () {
 Route::get('age9-10', function () {
     return view('age9-10');
 });
+Route::get('age9-11', function () {
+    return view('age9-11');
+});
 Route::get('age11-12', function () {
     return view('age11-12');
 });
+Route::get('age12-18', function () {
+    return view('age12-18');
+});
 Route::get('age13-18', function () {
     return view('age13-18');
+});
+Route::get('adult', function () {
+    return view('adult');
 });
 Route::get('acro', function () {
     return view('acro');

@@ -104,7 +104,7 @@ purple heart #7442c8
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
                     <img src="/images/ages-9-11.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
-                    <a href="/age9-10" style="text-decoration: none; color: white;">
+                    <a href="/age9-11" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
                                 Age 9-11
@@ -114,7 +114,7 @@ purple heart #7442c8
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
                     <img src="/images/ages-12-18.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
-                    <a href="/age11-12" style="text-decoration: none; color: white;">
+                    <a href="/age12-18" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
                                 Age 12-18
