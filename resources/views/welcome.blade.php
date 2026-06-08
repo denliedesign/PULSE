@@ -73,7 +73,7 @@ purple heart #7442c8
             <h4 class="text-center">Dance Classes in Northern Westchester</h4>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age2-4.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-2-4.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age2-4" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -83,7 +83,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/ages-5-6.jpeg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-5-6.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age5-6" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -93,7 +93,7 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age7-8.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-7-8.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age7-8" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -103,37 +103,37 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age-9-10.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-9-11.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age9-10" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
-                                Age 9-10
+                                Age 9-11
                             </h6>
                         </div>
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age11-12.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/ages-12-18.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/age11-12" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
-                                Age 11-12
+                                Age 12-18
                             </h6>
                         </div>
                     </a>
                 </div>
+{{--                <div class="col-sm my-2" style="position: relative;">--}}
+{{--                    <img src="/images/age13-18.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">--}}
+{{--                    <a href="/age13-18" style="text-decoration: none; color: white;">--}}
+{{--                        <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">--}}
+{{--                            <h6 class="text-center">--}}
+{{--                                Age 13-18--}}
+{{--                            </h6>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age13-18.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
-                    <a href="/age13-18" style="text-decoration: none; color: white;">
-                        <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
-                            <h6 class="text-center">
-                                Age 13-18
-                            </h6>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/acro.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/26-acro.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/acro" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
@@ -143,11 +143,21 @@ purple heart #7442c8
                     </a>
                 </div>
                 <div class="col-sm my-2" style="position: relative;">
-                    <img src="/images/age-boys.jpeg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <img src="/images/26-boys.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
                     <a href="/boys" style="text-decoration: none; color: white;">
                         <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
                             <h6 class="text-center">
                                 Boys
+                            </h6>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm my-2" style="position: relative;">
+                    <img src="/images/26-adult.jpg" alt="dancer posing" class="img-fluid rounded" style="height: 500px; width: 100%; object-fit: cover; object-position: center;">
+                    <a href="/adult" style="text-decoration: none; color: white;">
+                        <div class="px-5 rounded shadow pt-2" style="background: #5946b2; position: absolute; bottom: 3%; left: 50%; transform: translateX(-50%);">
+                            <h6 class="text-center">
+                                Adult
                             </h6>
                         </div>
                     </a>
@@ -314,7 +324,7 @@ purple heart #7442c8
     <div class="container" style="position: relative;">
 {{--        <div class="d-none d-lg-block apple-boom">BOOM!</div>--}}
         <div class="d-flex justify-content-center align-items-center">
-            <img src="/images/boom-25.jpeg" alt="dancer in costume" class="img-fluid">
+            <img src="/images/26-boom.jpg" alt="dancer in costume" class="img-fluid">
         </div>
         <div class="d-block">
             <h4 class="text-center text-uppercase">BOOM!</h4>
